@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Prerequisites
 You must have flutter and android studio installed and configured on your system to run this app on emulator or actual mobile phone.<br>
-## About The tune_in 
+## About The Tune_IN
 The app consists of:<br>
 1: Local Audio player<br>
 2:Local video player<br>
