@@ -1,6 +1,8 @@
 # tune_in
 
-A new Flutter project.
+A new Flutter project.<br>
+The amazing tune_in app can play audio/video from local assets as well as network stream.<br>
+
 
 ## Getting Started
 
@@ -14,3 +16,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Prerequisites
+You must have flutter and android studio installed and configured on your system to run this app on emulator or actual mobile phone.<br>
+## About The tune_in 
+The app consists of:<br>
+1: Local Audio player<br>
+2:Local video player<br>
+3:Audio that can be played from a network stream<br>
+4:Video that can be played from a network stream<br>
+
+## Scope
+In the comming future the app will be improved and various new features will also be added to the app.<br>
