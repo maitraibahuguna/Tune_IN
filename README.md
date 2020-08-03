@@ -22,9 +22,9 @@ samples, guidance on mobile development, and a full API reference.
 You must have flutter and android studio installed and configured on your system to run this app on emulator or actual mobile phone.<br>
 ## About The Tune_IN
 The app consists of:<br>
-1: Local Audio player<br>
-2:Local video player<br>
-3:Audio that can be played from a network stream<br>
+1: Local Audio player<br> https://github.com/maitraibahuguna/Tune_IN/raw/master/scrshots/1.jpeg
+2:Local video player<br> https://github.com/maitraibahuguna/Tune_IN/raw/master/scrshots/2.jpeg
+3:Audio that can be played from a network stream<br> https://github.com/maitraibahuguna/Tune_IN/raw/master/scrshots/3.jpeg
 4:Video that can be played from a network stream<br>
 
 ## Scope
